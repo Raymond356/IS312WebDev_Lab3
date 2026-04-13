@@ -1,5 +1,0 @@
-/* Custom Style 1: Body font and smooth transitions */
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    transition: background-color 0.4s ease, color 0.4s ease;
-}
